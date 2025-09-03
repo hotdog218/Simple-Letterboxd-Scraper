@@ -202,7 +202,7 @@ def main_menu():
     print("0. Exit")
 
     while True:
-        choice = input("Enter your choice (0-5): ")
+        choice = input("Enter your choice (0-6): ")
 
         if choice == "1":
             print("Enter username to scrape:")
